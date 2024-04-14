@@ -8,7 +8,7 @@ on:
       - master
 
 env:
-  BUILD_TYPE: Release
+  BUILD_TYPE: Release 
   
 jobs:
   check-version:
